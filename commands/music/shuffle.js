@@ -1,6 +1,6 @@
 module.exports = {
     name: 'shuffle',
-    aliases: ['sh'],
+    aliases: [],
     utilisation: '{prefix}shuffle',
     voiceChannel: true,
 
